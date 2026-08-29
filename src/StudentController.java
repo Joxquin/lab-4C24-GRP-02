@@ -33,3 +33,5 @@ public class StudentController {
 		report.generateReport(model.getName(), model.getId());
 	}
 }
+
+// Cambios
